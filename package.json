@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.5.0",
+    "react-router-dom": "^6.28.1"
+  },
+  "devDependencies": {
+    "ajv": "^7.2.4",
+    "sass": "^1.83.1"
+  }
+}
